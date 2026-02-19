@@ -187,11 +187,14 @@ La verdadera ventaja competitiva en fintech no está solo en predecir riesgo, si
 
 ## 📊 Visualizaciones desarrolladas
 
+
 - 📈 Curva ROC y KS
   <img width="701" height="558" alt="image" src="https://github.com/user-attachments/assets/e188ba33-a9df-4126-b8a3-d46b83d6c1f2" />
 
+
 - 📊 Profit Curve vs Threshold
   <img width="713" height="558" alt="image" src="https://github.com/user-attachments/assets/6be9b36e-4626-4072-84dc-54d32c204c29" />
+
 
 - 📊 Distribución de probabilidad de default por segmento
    <img width="701" height="559" alt="image" src="https://github.com/user-attachments/assets/0c779fd1-2088-4b95-a136-a4b085417348" />
