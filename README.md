@@ -187,13 +187,23 @@ La verdadera ventaja competitiva en fintech no está solo en predecir riesgo, si
 
 ## 📊 Visualizaciones desarrolladas
 
-- 📈 Curva ROC y KS  
-- 💰 Profit Curve vs Threshold  
-- 📊 Distribución de probabilidad de default por segmento  
-- 📉 Lift Chart del A/B Testing  
-- 📌 Importancia de variables del modelo  
+- 📈 Curva ROC y KS
+  <img width="701" height="558" alt="image" src="https://github.com/user-attachments/assets/e188ba33-a9df-4126-b8a3-d46b83d6c1f2" />
+
+- 📊 Profit Curve vs Threshold
+  <img width="713" height="558" alt="image" src="https://github.com/user-attachments/assets/6be9b36e-4626-4072-84dc-54d32c204c29" />
+
+- 📊 Distribución de probabilidad de default por segmento
+   <img width="701" height="559" alt="image" src="https://github.com/user-attachments/assets/0c779fd1-2088-4b95-a136-a4b085417348" />
+
+- 📉 Lift Chart del A/B Testing
+  <img width="701" height="558" alt="image" src="https://github.com/user-attachments/assets/7e999aaa-3b12-4c36-8031-08c7c0cf656e" />
+
+- 📌 Importancia de variables del modelo
+  <img width="808" height="534" alt="image" src="https://github.com/user-attachments/assets/be08e26d-1c81-40f6-96b1-4ca61e882aec" />
+
 - 📊 Monitoreo de drift en variables financieras críticas  
-- 📊 Dashboard interactivo de decisión crediticia con Streamlit  
+  <img width="700" height="558" alt="image" src="https://github.com/user-attachments/assets/dc42bc41-2524-4516-9b10-b5e4ae230f35" />
 
 ---
 
